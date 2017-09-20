@@ -1,4 +1,4 @@
-drupal
+Misc
 ======
 
-Drupal Content
+Miscellaneous topic content
